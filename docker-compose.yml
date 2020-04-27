@@ -3,3 +3,7 @@ web:
 
   ports:
    - "8080:8080"
+
+store_test_results
+
+
